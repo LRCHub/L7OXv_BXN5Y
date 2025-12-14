@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エイエ戦サー",
+  "base_artist": "桜坂しずく (CV.前田佳織里)",
+  "createdAt": "2025-12-14T06:06:30.936671Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エイエ戦サー",
+      "artist": "桜坂しずく(CV.前田佳織里)",
+      "has_synced": false,
+      "path": "select/pl_01_エイエ戦サー_桜坂しずく(CV.前田佳織里).txt"
+    }
+  ]
+}
